@@ -27,7 +27,7 @@ Participo en proyectos educativos y personales para seguir mejorando mis habilid
 ## 🌐 Proyectos Online
 
 - 🎬 PelisYA → https://pelis-ya.vercel.app/
-- 🍽️ Gestión Mesas → https://github.com/Martin140706/gestionMesas
+- 🍽️ Gestión Mesas → https://gestion-mesas.vercel.app/
 - 🌍 Adventure Viajes → (Próximamente)
 
 ## 📫 Contacto
