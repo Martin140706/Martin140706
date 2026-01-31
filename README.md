@@ -20,11 +20,15 @@ Participo en proyectos educativos y personales para seguir mejorando mis habilid
 ## 📌 Proyectos
 
 - 🌍 [Adventure Viajes](https://github.com/Martin140706/AdventureViajes)
-  [Web publicada] => (Proximamente)
 - 🎬 [PelisYA](https://github.com/Martin140706/PelisYA)
-  [Web publicada](https://pelis-ya.vercel.app/)
 - 🍽️ [Gestión Restaurante](https://github.com/Martin140706/gestionMesas)
-  [Web publicada](https://github.com/Martin140706/gestionMesas)
+
+
+## 🌐 Proyectos Online
+
+- 🎬 PelisYA → https://pelis-ya.vercel.app/
+- 🍽️ Gestión Mesas → https://github.com/Martin140706/gestionMesas
+- 🌍 Adventure Viajes → (Próximamente)
 
 ## 📫 Contacto
 
