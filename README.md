@@ -1,46 +1,28 @@
 # 👋 Hola, soy Martín
 
-Soy Técnico en Programación y desarrollador web junior de Argentina 🇦🇷  
-Me interesa crear aplicaciones web funcionales, ordenadas y fáciles de usar.
+🎓 Técnico en Programación  
+💻 Desarrollador Web Jr  
+🇦🇷 Argentina  
 
----
+## 🚀 Sobre mí
 
-## 🚀 Tecnologías
+Soy estudiante y desarrollador enfocado en crear aplicaciones web con Node.js y MySQL.  
+Participo en proyectos educativos y personales para seguir mejorando mis habilidades.
 
-- JavaScript  
+## 🛠️ Tecnologías
+
 - Node.js  
+- JavaScript  
 - MySQL  
-- HTML  
-- CSS
-- C
-- Python
+- HTML & CSS  
+- Git & GitHub  
 
----
+## 📌 Proyectos
 
-## 🏆 Proyectos y logros
-
-- 🥈 Segundo puesto en Olimpiada Escolar
-
-### 📌 Proyectos
-
-- 🌍 **Adventure Viajes**  
-  Sistema de reservas de vuelos, autos y paquetes turísticos.
-
-- 🎬 **PelisYA**  
-  Plataforma para el alquiler de películas.
-
-- 🍽️ **Gestión de Restaurante**  
-  Sistema para la administración de mesas y pedidos.
-
----
-
-## 🎯 Objetivo
-
-Seguir creciendo como programador y desarrollarme como desarrollador full stack.
-
----
+- 🌍 [Adventure Viajes](https://github.com/Martin140706/AdventureViajes)  
+- 🎬 [PelisYA](https://github.com/Martin140706/PelisYA)  
+- 🍽️ [Gestión Restaurante](https://github.com/Martin140706/gestionMesas)
 
 ## 📫 Contacto
 
-- GitHub: @Martin140706  
-- Email: tolosamartinalejandro@gmail.com
+📧 tolosamartinalejandro@gmail.com
