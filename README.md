@@ -11,7 +11,9 @@ Me interesa crear aplicaciones web funcionales, ordenadas y fáciles de usar.
 - Node.js  
 - MySQL  
 - HTML  
-- CSS  
+- CSS
+- C
+- Python
 
 ---
 
