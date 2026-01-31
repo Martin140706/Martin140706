@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hola, soy Martín
 
-<!--
-**Martin140706/Martin140706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Técnico en Programación y desarrollador web junior de Argentina 🇦🇷  
+Me interesa crear aplicaciones web funcionales, ordenadas y fáciles de usar.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías
+
+- JavaScript  
+- Node.js  
+- MySQL  
+- HTML  
+- CSS  
+
+---
+
+## 🏆 Proyectos y logros
+
+- 🥈 Segundo puesto en Olimpiada Escolar
+
+### 📌 Proyectos
+
+- 🌍 **Adventure Viajes**  
+  Sistema de reservas de vuelos, autos y paquetes turísticos.
+
+- 🎬 **PelisYA**  
+  Plataforma para el alquiler de películas.
+
+- 🍽️ **Gestión de Restaurante**  
+  Sistema para la administración de mesas y pedidos.
+
+---
+
+## 🎯 Objetivo
+
+Seguir creciendo como programador y desarrollarme como desarrollador full stack.
+
+---
+
+## 📫 Contacto
+
+- GitHub: @Martin140706  
+- Email: tolosamartinalejandro@gmail.com
